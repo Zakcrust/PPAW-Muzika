@@ -107,7 +107,7 @@
             Licensing information: https://templatemag.com/license/
           -->
                 Created with Shield template by <a href="https://templatemag.com/">TemplateMag</a>
-                <br> Edited by Dimas Bayu Aji & Kamal Zakky Abbdurrrafi
+                <br> Edited by Dimas Bayu Aji & Kamal Zaki Abdurrafi
             </div>
         </div>
     </div>
