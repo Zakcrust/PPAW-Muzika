@@ -113,7 +113,7 @@
     </div>
     <!-- / copyrights -->
 
-    !-- JavaScript Libraries -->
+    <!-- JavaScript Libraries -->
     <script src="<? echo base_url('/assets/lib/jquery/jquery.min.js') ?>"></script>
     <script src="<? echo base_url('/assets/lib/bootstrap/js/bootstrap.min.js') ?>"></script>
     <script src="<? echo base_url('/assets/lib/php-mail-form/validate.js') ?>"></script>
